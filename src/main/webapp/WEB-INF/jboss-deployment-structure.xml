@@ -1,0 +1,10 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="org.jboss.as.jaxrs"/>
+            <module name="org.jboss.as.web"/>
+            <module name="org.jboss.snowdrop"/>
+            <module name="org.jboss.as.ee"/>
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
